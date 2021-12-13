@@ -1,3 +1,4 @@
 teste
 Entender o HEAD
 esta linha foi mudificada no ramo master
+Esta linha foi modificada no ramo este
